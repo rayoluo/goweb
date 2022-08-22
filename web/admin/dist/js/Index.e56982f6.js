@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["Index"],{adf4:function(t,e,n){"use strict";n.r(e);var i=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},l=[function(){var t=this,e=t.$createElement,n=t._self._c||e;return n("div",{staticStyle:{"text-align":"center"}},[n("h3",[t._v("欢迎来到YugoBlog后台管理页面")]),n("img",{staticStyle:{width:"60%",height:"60%"},attrs:{src:"indexbg.jpg",alt:""}})])}],a=n("2877"),c={},r=Object(a["a"])(c,i,l,!1,null,null,null);e["default"]=r.exports}}]);
+//# sourceMappingURL=Index.e56982f6.js.map
